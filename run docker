@@ -1,0 +1,1 @@
+docker run -i -t - `pwd`:/src udacity/carnd-term1-starter-kit
